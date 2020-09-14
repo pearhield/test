@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T02:28:34.782Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="qLBMogCFUnCKZQdkPAPn" version="13.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-14T08:33:31.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="KQKFHo2GIBSr8G0bpOlG" version="13.5.5" type="github">
   <diagram id="6exPFGXuGzIeHOk8H6Dh" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,11 +34,26 @@
             <mxPoint x="314" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TXNZ-bLl_A4PQ23wF9BG-12" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="TXNZ-bLl_A4PQ23wF9BG-12" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="TXNZ-bLl_A4PQ23wF9BG-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="300" as="sourcePoint" />
             <mxPoint x="520" y="360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TXNZ-bLl_A4PQ23wF9BG-14" value="第N帧每个角色的攻击目标列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TXNZ-bLl_A4PQ23wF9BG-16" value="每个角色的攻击目标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TXNZ-bLl_A4PQ23wF9BG-19" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="TXNZ-bLl_A4PQ23wF9BG-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="300" as="sourcePoint" />
+            <mxPoint x="520" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TXNZ-bLl_A4PQ23wF9BG-20" value="血量、状态等数据，播放动画的信号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="410" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

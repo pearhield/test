@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T13:13:40.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="qHgC_ZkXOj0CRj9LluJS" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-08T13:17:48.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="wJofWHxnyVJdlxuNYFyr" version="13.6.10" type="github">
   <diagram id="mIFvVYDnfBrDQecPSF4p" name="Page-1">
     <mxGraphModel dx="813" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,6 +96,36 @@
         </mxCell>
         <mxCell id="oji6ob3JdbTB-03IZG3q-42" value="非签到时间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="515" y="320" width="80" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="oji6ob3JdbTB-03IZG3q-55" value="" style="endArrow=none;dashed=1;html=1;fontColor=#FF9999;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="200" as="sourcePoint" />
+            <mxPoint x="730" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oji6ob3JdbTB-03IZG3q-56" value="" style="endArrow=none;dashed=1;html=1;fontColor=#FF9999;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="200" as="sourcePoint" />
+            <mxPoint x="40" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oji6ob3JdbTB-03IZG3q-58" value="" style="endArrow=classic;html=1;fontColor=#FF9999;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="389.71" as="sourcePoint" />
+            <mxPoint x="80" y="389.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oji6ob3JdbTB-03IZG3q-60" value="" style="endArrow=classic;html=1;fontColor=#FF9999;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="389.71000000000004" as="sourcePoint" />
+            <mxPoint x="730" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oji6ob3JdbTB-03IZG3q-61" value="" style="endArrow=classic;html=1;fontColor=#FF9999;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="390" as="sourcePoint" />
+            <mxPoint x="730" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T13:11:39.010Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="692EFTK6SqU3p13uno-w" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-08T13:13:40.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="qHgC_ZkXOj0CRj9LluJS" version="13.6.10" type="github">
   <diagram id="mIFvVYDnfBrDQecPSF4p" name="Page-1">
     <mxGraphModel dx="813" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,6 +84,18 @@
         </mxCell>
         <mxCell id="oji6ob3JdbTB-03IZG3q-38" value="&lt;span style=&quot;font-style: normal&quot;&gt;&lt;u&gt;可补签时间&lt;/u&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="365" y="320" width="80" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="oji6ob3JdbTB-03IZG3q-40" value="禁用签到&lt;br&gt;（已过期）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="380" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oji6ob3JdbTB-03IZG3q-41" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="430" as="sourcePoint" />
+            <mxPoint x="610" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oji6ob3JdbTB-03IZG3q-42" value="非签到时间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="515" y="320" width="80" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,96 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T10:00:51.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="wUgjZMcx5JZxdTVyf8mz" version="20.4.1" type="github">
-  <diagram id="hKk2FDyfIRA6PlBuDNfS" name="第 1 页">
-    <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-04-25T02:12:01.732Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.3.0" etag="fjGDiwiMJRBQv58hyiiH" type="github">
+  <diagram name="第 1 页" id="9JkqEL8paCZvanlBVHd9">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZtgRr3ISWWPMAe4m6KNK-1" value="森保" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="400" width="55" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="ZtgRr3ISWWPMAe4m6KNK-4" value="美团/饿了么" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="327.5" y="420" width="105" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="ZtgRr3ISWWPMAe4m6KNK-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;startArrow=none;" edge="1" parent="1" source="ZtgRr3ISWWPMAe4m6KNK-16" target="ZtgRr3ISWWPMAe4m6KNK-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="480" as="sourcePoint" />
-            <mxPoint x="232.81710391716092" y="397.91547520276606" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZtgRr3ISWWPMAe4m6KNK-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.013;entryY=0.452;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ZtgRr3ISWWPMAe4m6KNK-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="417.23117841250587" y="430.3235212847345" as="sourcePoint" />
-            <mxPoint x="413.21067811865476" y="455" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZtgRr3ISWWPMAe4m6KNK-10" value="茶理宜世&lt;br&gt;（鲜奶）" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
-          <mxGeometry x="497.5" y="340" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ZtgRr3ISWWPMAe4m6KNK-11" value="LINLEE&lt;br&gt;（柠檬茶）" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
-          <mxGeometry x="497.5" y="470" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ZtgRr3ISWWPMAe4m6KNK-12" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.956;exitY=0.634;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.017;entryY=0.516;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ZtgRr3ISWWPMAe4m6KNK-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="427.8800000000001" y="464.38" as="sourcePoint" />
-            <mxPoint x="407.5" y="500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZtgRr3ISWWPMAe4m6KNK-13" value="Player" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="55" y="365" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZtgRr3ISWWPMAe4m6KNK-14" value="AuctionStub" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="370" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZtgRr3ISWWPMAe4m6KNK-16" value="手机" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.5;" vertex="1" parent="1">
-          <mxGeometry x="190" y="440" width="90" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="ZtgRr3ISWWPMAe4m6KNK-17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" source="ZtgRr3ISWWPMAe4m6KNK-1" target="ZtgRr3ISWWPMAe4m6KNK-16">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="115" y="455" as="sourcePoint" />
-            <mxPoint x="270.00000000000205" y="455" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZtgRr3ISWWPMAe4m6KNK-18" value="AuctionCaller" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="205" y="370" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZtgRr3ISWWPMAe4m6KNK-19" value="AuctionStore&lt;br&gt;（item_id:&quot;鲜奶&quot;）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="485" y="300" width="132.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZtgRr3ISWWPMAe4m6KNK-20" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" vertex="1" parent="1">
-          <mxGeometry x="790" y="325" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZtgRr3ISWWPMAe4m6KNK-21" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" vertex="1" parent="1">
-          <mxGeometry x="800" y="350" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZtgRr3ISWWPMAe4m6KNK-24" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" vertex="1" parent="1">
-          <mxGeometry x="810" y="374" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZtgRr3ISWWPMAe4m6KNK-25" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" vertex="1" parent="1">
-          <mxGeometry x="780" y="460" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZtgRr3ISWWPMAe4m6KNK-26" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" vertex="1" parent="1">
-          <mxGeometry x="830" y="500" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZtgRr3ISWWPMAe4m6KNK-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="617.5" y="379.65999999999997" as="sourcePoint" />
-            <mxPoint x="770" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZtgRr3ISWWPMAe4m6KNK-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="617.5" y="510" as="sourcePoint" />
-            <mxPoint x="770" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZtgRr3ISWWPMAe4m6KNK-29" value="AuctionRecord&lt;br&gt;具体的上架物品信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="260" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZtgRr3ISWWPMAe4m6KNK-31" value="挑选糖度冰度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="480" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ZtgRr3ISWWPMAe4m6KNK-32" value="筛选物品属性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="300" width="110" height="25" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

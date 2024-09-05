@@ -98,6 +98,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="500" as="sourcePoint" />
             <mxPoint x="430" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="400" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="P1U4juNz2zVnz6R66b3a-17" value="接近停顿" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
@@ -139,17 +142,90 @@
         <mxCell id="P1U4juNz2zVnz6R66b3a-28" value="动作结束" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="850" y="325" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P1U4juNz2zVnz6R66b3a-32" value="预告玩家" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="330" y="390" width="100" height="20" as="geometry" />
+        <mxCell id="P1U4juNz2zVnz6R66b3a-32" value="预告玩家&lt;div&gt;开始攻击&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="330" y="370" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P1U4juNz2zVnz6R66b3a-33" value="预警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="430" y="390" width="90" height="20" as="geometry" />
+        <mxCell id="P1U4juNz2zVnz6R66b3a-33" value="预警&lt;div&gt;让玩家看清动作&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="430" y="370" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P1U4juNz2zVnz6R66b3a-34" value="做出反应" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="520" y="390" width="60" height="20" as="geometry" />
+        <mxCell id="P1U4juNz2zVnz6R66b3a-34" value="做出反应&lt;div&gt;目押&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="520" y="370" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P1U4juNz2zVnz6R66b3a-40" value="玩家打输出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="720" y="390" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X9kv6Qr_m_qCyGXBYQWk-1" value="玩家应对1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00cc4e;" vertex="1" parent="1">
+          <mxGeometry x="210" y="430" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X9kv6Qr_m_qCyGXBYQWk-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="440" as="sourcePoint" />
+            <mxPoint x="450" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X9kv6Qr_m_qCyGXBYQWk-5" value="过早闪避" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="455" y="430" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X9kv6Qr_m_qCyGXBYQWk-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="X9kv6Qr_m_qCyGXBYQWk-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="555" y="439.71" as="sourcePoint" />
+            <mxPoint x="770" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X9kv6Qr_m_qCyGXBYQWk-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X9kv6Qr_m_qCyGXBYQWk-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="765" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X9kv6Qr_m_qCyGXBYQWk-10" value="被击中" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="625" y="425" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X9kv6Qr_m_qCyGXBYQWk-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X9kv6Qr_m_qCyGXBYQWk-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X9kv6Qr_m_qCyGXBYQWk-14" value="连贯输出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X9kv6Qr_m_qCyGXBYQWk-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" target="X9kv6Qr_m_qCyGXBYQWk-14" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="555" y="464.71" as="sourcePoint" />
+            <mxPoint x="770" y="465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X9kv6Qr_m_qCyGXBYQWk-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X9kv6Qr_m_qCyGXBYQWk-16" target="X9kv6Qr_m_qCyGXBYQWk-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X9kv6Qr_m_qCyGXBYQWk-16" value="成功闪避" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="540" y="455" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X9kv6Qr_m_qCyGXBYQWk-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="464.71" as="sourcePoint" />
+            <mxPoint x="380" y="465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X9kv6Qr_m_qCyGXBYQWk-18" value="玩家应对2（有经验）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00cc4e;" vertex="1" parent="1">
+          <mxGeometry x="210" y="455" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X9kv6Qr_m_qCyGXBYQWk-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="464.71" as="sourcePoint" />
+            <mxPoint x="540" y="465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X9kv6Qr_m_qCyGXBYQWk-25" value="等待n秒" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="380" y="455" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X9kv6Qr_m_qCyGXBYQWk-26" value="不稳定&lt;div style=&quot;font-size: 9px;&quot;&gt;取决玩家技术和经验&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="370" y="475" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="X9kv6Qr_m_qCyGXBYQWk-27" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="540" y="480" width="20" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="X9kv6Qr_m_qCyGXBYQWk-29" value="真正要做出应对的时间不足" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="520" y="525" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
